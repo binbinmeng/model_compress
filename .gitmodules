@@ -1,0 +1,6 @@
+[submodule "Caffe-DeepCompression"]
+	path = Caffe-DeepCompression
+	url = https://github.com/binbinmeng/Caffe-DeepCompression.git
+[submodule "squeezenet_deep_compression"]
+	path = squeezenet_deep_compression
+	url = https://github.com/binbinmeng/squeezenet_deep_compression.git
