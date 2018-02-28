@@ -10,3 +10,6 @@
 [submodule "DeepCompression"]
 	path = DeepCompression
 	url = https://github.com/binbinmeng/DeepCompression.git
+[submodule "EasyDeepCompression"]
+	path = EasyDeepCompression
+	url = https://github.com/nishisuke/EasyDeepCompression.git
