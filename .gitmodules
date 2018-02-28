@@ -1,9 +1,12 @@
 [submodule "Caffe-DeepCompression"]
 	path = Caffe-DeepCompression
-	url = https://github.com/binbinmeng/Caffe-DeepCompression.git
+	url = https://github.com/satti007/Caffe-DeepCompression.git
 [submodule "squeezenet_deep_compression"]
 	path = squeezenet_deep_compression
 	url = https://github.com/aichitudou/squeezenet_deep_compression.git
 [submodule "DeepCompression-caffe"]
 	path = DeepCompression-caffe
 	url = https://github.com/may0324/DeepCompression-caffe.git
+[submodule "DeepCompression"]
+	path = DeepCompression
+	url = https://github.com/binbinmeng/DeepCompression.git
