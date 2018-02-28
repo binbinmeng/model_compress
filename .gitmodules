@@ -13,3 +13,6 @@
 [submodule "EasyDeepCompression"]
 	path = EasyDeepCompression
 	url = https://github.com/nishisuke/EasyDeepCompression.git
+[submodule "model_compression"]
+	path = model_compression
+	url = https://github.com/guoxiaolu/model_compression.git
